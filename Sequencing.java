@@ -5,8 +5,8 @@ public class Sequencing {
 		
 		
 		Scanner keyboard = new Scanner(System.in);
-		double price = 0, salesTax, total;  // declared a double variable called price and assigned it a value of 0
-		                                    // declared two other double variables salesTax and total but didn't asign them any values.
+		double price = 0, salesTax, total;  
+		                                    
 		System.out.print( "How much is the purchase price? " );
 		price = keyboard.nextDouble();
 		
